@@ -223,6 +223,4 @@ const generateQuote = ()=>{
     q.innerText = quotes[i].quote
     a.innerText = quotes[i].author
     //card.style.backgroundColor = quotes[i].background
-
-
 }
