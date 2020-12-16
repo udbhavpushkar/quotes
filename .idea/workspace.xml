@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f70dc6f-84cb-4cdd-ab09-88c9c2257bf2" name="Default Changelist" comment="">
+    <list default="true" id="9f70dc6f-84cb-4cdd-ab09-88c9c2257bf2" name="Default Changelist" comment="finally commit I guess">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,12 +82,39 @@
       <workItem from="1608037340293" duration="5454000" />
       <workItem from="1608047583165" duration="2354000" />
       <workItem from="1608095910661" duration="102000" />
-      <workItem from="1608116324403" duration="1641000" />
+      <workItem from="1608116324403" duration="2230000" />
+      <workItem from="1608124243722" duration="1243000" />
+      <workItem from="1608127124944" duration="795000" />
+      <workItem from="1608128278557" duration="664000" />
     </task>
+    <task id="LOCAL-00001" summary="finally commit I guess">
+      <created>1608118128930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608118128930</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finally commit I guess" />
+    <option name="LAST_COMMIT_MESSAGE" value="finally commit I guess" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1281" height="183" key="GridCell.Tab.0.bottom" timestamp="1607954063691">
@@ -90,5 +133,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1281" height="183" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1607954063691" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1608118141231">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1608118141231" />
   </component>
 </project>
